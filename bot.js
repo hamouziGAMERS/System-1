@@ -10,5 +10,10 @@ client.on('message', msg => {
     msg.reply('Pong!');
   }
 });
-
+token= NTMzMTU4NjEyNDAzNDg2NzIx.DyEkkA.pGWLL00ogt2jQKu59DfzhcPATHQ
+owner= 490320866391883788
+prefix= A
+game= Ahelp
+stayinchannel=true
+songinstatus=true
 client.login(process.env.BOT_TOKEN);
